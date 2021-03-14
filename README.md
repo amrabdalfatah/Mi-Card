@@ -1,6 +1,8 @@
 # mi_card
 
-A new Flutter application.
+This is my App which display all accounts for me
+
+
 
 ## Getting Started
 
