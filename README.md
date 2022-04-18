@@ -2,7 +2,7 @@
 
 This is my App which display all accounts for me
 
-![amrscreen][400*300](https://user-images.githubusercontent.com/44507236/111055068-ddfaa680-847a-11eb-9d5f-5d9726029ea9.png)
+<img src="amrscreen.png" alt="Screen of Application" width="200"/>
 
 
 ## Getting Started
